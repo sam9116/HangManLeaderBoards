@@ -28,7 +28,7 @@ namespace HangManLeaderBoards.Controllers
                 MobileServiceSQLiteStore Store = new MobileServiceSQLiteStore("local.db");
                 Store.DefineTable<Player>();
                 await Store.InitializeAsync();
-                var result = await Store.ExecuteQueryAsync("Player", "Select * From Player", new Dictionary<string, object>());
+                var result = await Store.ExecuteQueryAsync("Player", "Select * From Player Order By Roundssurvived DESC", new Dictionary<string, object>());
                 return new JsonResult(result);
             }
             catch(Exception ex)
@@ -61,7 +61,7 @@ namespace HangManLeaderBoards.Controllers
                 }
                 if (p == null)
                 {
-                    p = new Player() { id = username, Roundssurvived = 0 };
+                    p = new Player() { id = username, Roundssurvived = 1 };
                 }
 
                 await Store.UpsertAsync("Player", new List<JObject>() { JObject.FromObject(p) }, true);
