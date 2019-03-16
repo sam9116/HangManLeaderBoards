@@ -1,0 +1,15 @@
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\bin\Release\netcoreapp2.1\HangManLeaderBoards.deps.json
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\bin\Release\netcoreapp2.1\HangManLeaderBoards.runtimeconfig.json
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\bin\Release\netcoreapp2.1\HangManLeaderBoards.runtimeconfig.dev.json
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\bin\Release\netcoreapp2.1\HangManLeaderBoards.dll
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\bin\Release\netcoreapp2.1\HangManLeaderBoards.pdb
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.csprojAssemblyReference.cache
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.RazorAssemblyInfo.cache
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.RazorAssemblyInfo.cs
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.AssemblyInfoInputs.cache
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.AssemblyInfo.cs
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.RazorTargetAssemblyInfo.cache
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.dll
+C:\Users\Sam\Source\repos\HangManLeaderBoards\HangManLeaderBoards\obj\Release\netcoreapp2.1\HangManLeaderBoards.pdb
